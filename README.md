@@ -1,2 +1,2 @@
 # UDEMY
-UDEMY 강의
+udemy 강의
